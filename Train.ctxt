@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=g
+comment0.target=void\ drawCab(java.awt.Graphics)
+comment1.params=g
+comment1.target=void\ drawWindow(java.awt.Graphics)
+comment2.params=g
+comment2.target=void\ drawTank(java.awt.Graphics)
+comment3.params=g
+comment3.target=void\ drawStack(java.awt.Graphics)
+comment4.params=g
+comment4.target=void\ drawDome(java.awt.Graphics)
+comment5.params=g
+comment5.target=void\ drawDrive(java.awt.Graphics)
+numComments=6
